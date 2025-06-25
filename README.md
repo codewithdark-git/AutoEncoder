@@ -1,2 +1,2 @@
 # AutoEncoder
-This is Repo content the AutoEncoder and it type
+This is Repo contains the AutoEncoder and its type
